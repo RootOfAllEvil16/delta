@@ -1,0 +1,42 @@
+.alternative-heading::after, .alternative-heading--404::after, .sidebar__headings::after, .footer .footer__headings::after, 
+.jumbotron__category::after, .hentry__title::after, .panel-grid .widget-title::after, body.woocommerce-page nav.woocommerce-pagination ul li a:hover,
+body.woocommerce-page nav.woocommerce-pagination ul li span.current, body.woocommerce-page div.product .woocommerce-tabs ul.tabs li.active ,
+body.woocommerce-page div.product .woocommerce-tabs h2::after, body.woocommerce-page .short-description::after, 
+body.woocommerce-page .cart-collaterals .cart_totals h2::after, body.woocommerce-page .cart-collaterals .shipping_calculator h2::after, 
+.buildpress-table thead th, .brochure-box:hover, .widget_calendar caption, .footer-bottom ,.project-link, body.woocommerce-page .widget_product_search #searchsubmit,
+body.woocommerce-page .short-description::before, body.woocommerce-page #payment #place_order {background-color:#6da5f2}
+.main-title__secondary::before, .footer-bottom, .navbar-toggle, #comments-submit-button, .btn-primary,
+#comments-submit-button:focus, .btn-primary:focus, .post-password-form > p > input, pagination li:hover , .pagination li .current,
+.sidebar .widget_nav_menu ul > li > a:hover , .widget_search .search-submit, .widget_tag_cloud a , body.woocommerce-page .tagcloud a ,
+.portfolio-light #filters li.active, .portfolio-light #filters li:hover, body.woocommerce-page .widget_product_search #searchsubmit,
+body.woocommerce-page span.onsale, .woocommerce span.onsale, body.woocommerce-page .widget_product_categories ul > li > a:hover,
+body.woocommerce-page .woocommerce-error, body.woocommerce-page .woocommerce-info, body.woocommerce-page .woocommerce-message ,
+body.woocommerce-page a.button:hover, body.woocommerce-page input.button:hover, body.woocommerce-page input.button.alt:hover, body.woocommerce-page button.button:hover,
+body.woocommerce-page #review_form #respond input#submit, body.woocommerce-page .quantity .minus:hover, body.woocommerce-page .quantity .plus:hover,
+body.woocommerce-page button.button.alt, body.woocommerce-page table.cart td.actions input.button.alt,
+.sidebar .widget_nav_menu ul > li.current-menu-item a   {background:#6da5f2}
+.navigation--top > li > a:hover, .navigation--top > li:hover > a, .navigation--top .sub-menu > li > a:hover,
+.jumbotron__category h6, 
+.rating span,
+.widget_pt_icon_box .icon-box > .fa,
+body.woocommerce-page nav.woocommerce-pagination ul li .prev:hover, body.woocommerce-page nav.woocommerce-pagination ul li .next:hover,
+.social-icons__link ,
+body.woocommerce-page p.stars a,
+body.woocommerce-page .star-rating, .woocommerce .star-rating,
+.testimonial__rating,
+body.woocommerce-page ul.products li.product a:hover img, .woocommerce ul.products li.product a:hover img  { color: #6da5f2}
+blockquote, #comments-submit-button, .btn-primary, #comments-submit-button:focus, .btn-primary:focus, .post-password-form > p > input,
+.logo-panel img:hover  { border-color: #6da5f2; }
+.navigation--top > li:hover > a::after { border-color: #6da5f2 transparent transparent transparent; }
+.wc-proceed-to-checkout a.checkout-button {background-color: #6da5f2 !Important;}
+#filters li.active a, #filters li:hover a{border-bottom-color:#6da5f2}
+@media (min-width: 992px) { .navigation--main > li:hover > a { border-top-color: #6da5f2 } }
+@media (min-width: 992px) { .navigation--main .sub-menu > li > a {  background: #6da5f2}}
+
+#comments-submit-button:hover, .btn-primary:hover{background:#4d91ef; border-color:#4d91ef}
+@media (min-width: 992px) { 
+	.navigation--main .sub-menu > li > a:hover { background: #4d91ef; border-bottom-color: #4d91ef;} 
+	.navigation--main .sub-menu > li > a{ border-bottom-color: #4d91ef;}
+	.navigation--main .sub-menu {border-top-color:#4d91ef}
+}
+.widget_tag_cloud a:hover, body.woocommerce-page a.button:hover, body.woocommerce-page input.button:hover, body.woocommerce-page input.button.alt:hover, body.woocommerce-page button.button:hover{background:#4d91ef !important}
