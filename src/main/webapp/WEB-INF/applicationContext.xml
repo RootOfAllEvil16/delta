@@ -6,9 +6,9 @@
 
     <bean id="dataSource" class="org.springframework.jdbc.datasource.DriverManagerDataSource">
         <property name="driverClassName" value="com.mysql.jdbc.Driver"/>
-        <property name="url" value="jdbc:mysql://localhost:3306/deltamer"/>
-        <property name="password" value="deltamer2018"/>
-        <property name="username" value="delta"/>
+        <property name="url" value="jdbc:mysql://localhost:3306/dbname"/>
+        <property name="password" value="password"/>
+        <property name="username" value="username"/>
 
     </bean>
 <!-- don`t forget to change DB name/username/password-->
