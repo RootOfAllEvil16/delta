@@ -3,3 +3,5 @@ Simple website for building company created with Spring Framework with strong fr
 
 Used technologies: Java EE, Spring MVC, Servlets, Hibernate, MySql, Tomcat, CSS/Bootstrap, JavaScript.
 
+#Project updating. Next feature - online-shopping
+
